@@ -1,0 +1,10 @@
+{
+  "description": "Visualize and interact with a futuristic limousine transport prototype featuring turbo thrusters and wings, designed for immersive vehicle concept exploration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
